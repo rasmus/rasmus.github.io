@@ -13,6 +13,7 @@ google_analytics: 'UA-627005-7'
 
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Details for the RSS feed generator
 url:            ''
