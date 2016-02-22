@@ -19,8 +19,15 @@ cover: '/assets/images/cover.jpg'
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
-                {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
+                <p>
+                    {% if site.description %} {{ site.description }}. {% endif %}
+                    {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
+                </p>
+                <p>
+                   <a href="http://github.com/rasmus"><img src="/assets/icons/github_48.png" /></a>
+                   <a href="https://twitter.com/rasmusnu"><img src="/assets/icons/twitter_48.png" /></a>
+                   <a href="https://dk.linkedin.com/in/rasmusmikkelsen"><img src="/assets/icons/linkedin_48.png" /></a> 
+                </p>
             </h2>
         </div>
     </div>
