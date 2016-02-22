@@ -14,3 +14,5 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            ''
 author:         'Rasmus Mikkelsen'
+
+permalink: '/blog/:year/:month/:day/:title/'
