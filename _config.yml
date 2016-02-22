@@ -3,6 +3,7 @@ description: Personal site and blog
 meta_description: "Rasmus Mikkelsen personal blog"
 
 markdown: kramdown
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
