@@ -2,6 +2,7 @@ name: Rasmus Mikkelsen
 description: Personal site and blog
 meta_description: "Rasmus Mikkelsen personal blog"
 
+
 markdown: kramdown
 highlighter: rouge
 logo: false
@@ -9,10 +10,16 @@ paginate: 15
 baseurl: /
 domain_name: 'http://smus.nu/'
 google_analytics: 'UA-627005-7'
-gems: [jekyll-paginate]
+
+gems:
+  - jekyll/tagging
+  - jekyll-paginate
 
 # Details for the RSS feed generator
 url:            ''
 author:         'Rasmus Mikkelsen'
 
 permalink: '/blog/:year/:month/:day/:title/'
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
