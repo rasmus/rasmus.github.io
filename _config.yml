@@ -1,16 +1,16 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Rasmus Mikkelsen
+description: Personal site and blog
+meta_description: "Rasmus Mikkelsen personal blog"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://smus.nu/'
+google_analytics: 'UA-627005-7'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            ''
+author:         'Rasmus Mikkelsen'
