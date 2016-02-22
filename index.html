@@ -36,13 +36,6 @@ cover: '/assets/images/cover.jpg'
 
 
 <main id="content" class="content" role="main">
-    <div class="inner">
-        <h4>tags:</h4>
-        {% for tag in site.tags %}
-            <a href="/tag/{{ tag | first | slugify: 'pretty' }}/">{{ tag | first }}</a>
-        {% endfor %}
-    </div>
-
     <div class="extra-pagination inner">
         {% include pagination.html %}
     </div>
