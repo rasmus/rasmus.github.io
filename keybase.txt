@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/rasmusnu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://smus.nu
+  * I am rasmusnu (https://keybase.io/rasmusnu) on keybase.
+  * I have a public key with fingerprint 27EB 19E2 8DD5 4397 4983  037B 12A5 36A7 5610 338A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010199817d16c210163c06a514607749af7a228c9e19d9e10efdd6baf51c0fdaf6010a",
+            "fingerprint": "27eb19e28dd543974983037b12a536a75610338a",
+            "host": "keybase.io",
+            "key_id": "12a536a75610338a",
+            "kid": "010199817d16c210163c06a514607749af7a228c9e19d9e10efdd6baf51c0fdaf6010a",
+            "uid": "73de48cee72e0b95f0ae29cc2fcb1400",
+            "username": "rasmusnu"
+        },
+        "revoke": {
+            "sig_ids": [
+                "e010d2ef46ec6026cd3324ef4f2a44530a1d260fadaff48421eee0e97faae86a0f"
+            ]
+        },
+        "service": {
+            "hostname": "smus.nu",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1456219192,
+    "expire_in": 157680000,
+    "prev": "d08b562096724289f00f0b857b60691a50ad13b6ab0d907e45b4cf9bcf2313a1",
+    "seqno": 25,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMN7AnicrZJ9TFZVHMd5kBCYIJgyIBG4VCQ+w3Pfzr33aQoWQQbpCgaZ2NO5954L
+F/B54HkLQiR8YUJISw1HusEQ3xhqsdaUQQxWVIaxgUS0dIYxlDBY4JTwpXOZ/def
+nT/O2e/s+/t8v+fl68AlXgGmFSfh6axgtsb0Q8+fbq+s/mfFMkq2q6WUpYwqwIsL
+LlSx02Ut0FXKQgEa0JIk0oJKQ4UhBWQVABFPcxAIAichTUAMIyoSpiWVTABrqgpl
+pPG0AjQVaZAQEGWmNN2Wix1FDt3mIlhGwDItYUZUVZ5jJQISWcAKMs0gnoVI4CEN
+WFY0GvPsTqODhJOREyfodrJHCutivP/Q/8+53Ys4gVUxJyoYCwwGssRrAGFGUhRG
+U2SaA8AQOrHDhnZionYg50630+amys2UA3vsBdi4V6eeS0I7Kct2ChO4ymCNg1iB
+gIGKyrIMR2qNQRzHswDRKgOBhkgQjRM5hsYYAywJGkJYhAho1A7CJo4eXVmEG7f0
+xN3wTiDmZqrIYXfZFXsh2cxzuYosRh5XaZEheg/L1iftVlm3qeR1SIMHO5y63UZZ
+aKJUXLrBozkeMrRES4yZwiVFugNbdUPBC1AEZBg22EOQKhBlIgUSFBiOESUNAA3I
+Ii/IEECJRjxAKs3KEMlAlYCAOV7mFE2SFY1haRbRlHGgYpudsjA8yYlyjbPouTbk
+cjswVd7bk+PjZQrw8n3K2/i2XgH+wf9+Zvex5Q/XfP7Km0e5TJ8oe2rh3t2NK3oW
+wnH12bsbaxZCw07g8eyS+dnL9XW4nHlh68XBwFPr1IT1Ya1ipLq26vnW8JBq0+tL
+CisiYw6Xnp0cv5I0kHZ+6Ehvcfr5wq640NhkU3v4lt8Upr788Kf3i69eun4tyPY4
+e9AVOjXX9sbgjW0h/vCrb4fmvKOV49/Bqo4HNTke9X7c8aHdq+7VJf7+yDqX7LlT
+EZ33XGC7b/rysc0xSUGh+SUR3X3vDg32Rdyy1pz48Fbm2FR/4MchaaApLdJ9Th9Z
+/dPAVP3KyUtjrqv9VbvosJkNLy5sKDm6KfPXM1pTy1jHy8P5cK7R+0pzpPm1MvqP
+k8WPqMFeP+/EqNRjU6crZ/xavuBGFspWdlc3o6q3LsxsbwoOfSeICmpLSuysDGpY
++vPDgc+Gh4/MX873yzqAY3ZNzqbnfqNLb/+dsmXcfjO+PaNtW/aFCWdlwQ1b7ScN
+dzOSzw123X46ZWN13Oj09F7TB2L3Zn9P1Gj8X6tuvrr1ff9YvdltzpDEa8K6Ta1Z
+EgyonY6+3lTR2XlHMpsOpQeCWNn50cGRZX7P1I+uGYqv63wQ/GPlgb4czas26eL3
+e/bF+Gb9khD9OGXp8n1U+qnVAV0jlPfIePf+9Q0twVGu1HsdtxMjTG1r/TKWHZxo
+2RNfdeilHbNJ8y2dExWNX84H+posUz5n/gFrqMtc
+=dUme
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rasmusnu
+
+==================================================================
