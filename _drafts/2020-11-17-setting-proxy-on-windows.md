@@ -57,9 +57,11 @@ function Set-Proxy() {
     $SystemNet     = Get-ChildNode -XmlDocument $XmlDocument -XmlNode $Configuration -Name "system.net"
     $DefaultProxy  = Get-ChildNode -XmlDocument $XmlDocument -XmlNode $SystemNet -Name "defaultProxy"
 
+    $BypassList    = Get-ChildNode -XmlDocument $XmlDocument -XmlNode $DefaultProxy -Name "bypasslist"
     $Proxy         = Get-ChildNode -XmlDocument $XmlDocument -XmlNode $DefaultProxy -Name "proxy"
 
     $Proxy.SetAttribute("usesystemdefault", "true");
+    $DefaultProxy.RemoveChild($BypassList);
     
     $XmlDocument.Save($FilePath)
 }
